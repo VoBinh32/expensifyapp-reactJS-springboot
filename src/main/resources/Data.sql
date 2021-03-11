@@ -1,6 +1,6 @@
 insert into user values(1,'Binh','binh@gmail.com')
 insert into user values(2,'Ken','ken@gmail.com')
-insert into user values(1,'Rosie','rosie@gmail.com')
+insert into user values(3,'Rosie','rosie@gmail.com')
 
 insert into category values(1,'Shopping')
 insert into category values(2,'Univeristy')
